@@ -1,3 +1,4 @@
 Belajar Bahasa Pemrograman JavaScript secara otodidak
 - konsisten belajar
 - belajar terus, minimal sehari 15mnt
+- menguasai javascript
